@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: rgba(132, 0, 255, 0.884);
+}
+
+p{
+    text-align: justify;
+    color: rgb(165, 124, 231);
+}
+ul{ 
+    color: rgb(176, 141, 241);
+}
+body{
+    background-color: rgb(21, 5, 36);
+}
+header{
+    text-align: center;
+    background-color:rgb(67, 44, 109) ;
+    padding: 1em;
+}
+div{
+    margin: 1em;
+    height: 580px;
+}
+footer{
+    text-align: center;
+    background-color:rgb(67, 44, 109) ;
+    padding: 1em; 
+    color: rgb(165, 124, 231);
+}
